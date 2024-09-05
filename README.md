@@ -8,4 +8,4 @@ Hands-on learning and application of NLP techniques through practical job search
 4. Making sense of data and producing a report.
 
 ## Disclaimer
-This is a CSC295 (Special topics in CS: Python) package demonstration project written and put together by me (Maxim Shelepov). The sole purpose of this is educational and example for what's possible with NLP using NLTK. The static snapshot of the indeed.com page is taken as an educational sample for analysis.
+This is a CSC295 (Special topics in CS: Python) package demonstration project written and put together by me (Maxim Shelepov). The sole purpose of this is educational and example for what's possible with NLP using NLTK. The static snapshot (i.e. [indeed_jobs.html](./indeed_jobs.html)) of the [indeed.com](https://www.indeed.com) page is taken as an educational sample for analysis.

@@ -1,0 +1,245 @@
+ANALYSIS OF 10 JOB POSTINGS
+Result from https://www.indeed.com for query: data+scientist+intern
+
+----------------------------------------------------------------------------------------------------
+>> Data Science Intern
+SUMMARY:
+Who are you?Simply put, you're a highly analytical thinker who's passionate about travel and supporting local businesses.You love discovering new places, and you're excited to join our mission of supporting businesses globally through the power of sharing.You're a bit of a food and drink aficionado, and you're ready to make an impact on a global scale by helping to support our Data Science Org.Sound like you?
+FREQUENT TWO-WORD PHRASES:
+- Data Science
+- share experience
+- support local
+- business globally
+- local business
+SENTIMENT:
+{'neg': 0.017, 'neu': 0.75, 'pos': 0.232, 'compound': 0.9986}
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+>> Data Science Intern
+SUMMARY:
+Company Description
+ Founded in 2013, Tidepool is a 501(c)3 nonprofit organization dedicated to making diabetes data more accessible, actionable, and meaningful for people with diabetes, their care teams, and researchers.Tidepool Loop is a project to build and support an FDA-regulated version of Loop, to be available in the iOS App Store, intended to work with commercially available insulin pumps and CGMs.Tidepool Loop is not currently available for use.Job Description
+ Please note that due to the nature of this role and its requirements, candidates must be geographically located in the United States, and authorized to work.We are looking for an enthusiastic and highly motivated Data Science Intern to join our team.
+FREQUENT TWO-WORD PHRASES:
+- Data Science
+- United States
+- employee applicant
+- Science Intern
+- team member
+- Tidepool Loop
+SENTIMENT:
+{'neg': 0.004, 'neu': 0.849, 'pos': 0.148, 'compound': 0.9974}
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+>> Data Scientist Master's Intern
+SUMMARY:
+2024 Summer Internship
+
+ Location:
+ This role is scheduled to be 100% remote.While remote, finalists MUST reside in one of the following states to be eligible for employment with Kaiser Permanente: CA, OR, WA, HI, CO, GA, MD, VA, CT, DC, or IL.Department Description:
+ KP Insight sits within the Finance organization and our specific team is part of a larger group that does advanced analytics for care delivery.Internship Project(s):
+ KP Insight is looking for dynamic and energetic data science / analytics professionals with experience in Pharmacy or Mental Health to support two burgeoning work streams.Target Majors:
+ Computer Science; Math/Statistics; Public Health; Data Science
+
+ Target Skills:
+ In the Pharmacy and Total Cost of Care work, we are looking for a Data Scientist that has extensive experience using machine learning and AI to solve problems.
+FREQUENT TWO-WORD PHRASES:
+- Kaiser Permanente
+- business objective
+- care delivery
+SENTIMENT:
+{'neg': 0.008, 'neu': 0.835, 'pos': 0.157, 'compound': 0.9975}
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+>> Data Scientist/Analyst Intern
+SUMMARY:
+About us: 
+ 
+   One team.Global challenges.Infinite opportunities.At Viasat, we’re on a mission to deliver connections with the capacity to change the world.For more than 35 years, Viasat has helped shape how consumers, businesses, governments and militaries around the globe communicate.
+FREQUENT TWO-WORD PHRASES:
+- Currently pursuing
+- Operations Research
+- Research Statistics
+- Statistics related
+- machine learning
+- quantitative field
+- related quantitative
+- Computer Science
+- Science Computer
+- Science Operations
+- team develop
+- Data Science
+SENTIMENT:
+{'neg': 0.012, 'neu': 0.813, 'pos': 0.176, 'compound': 0.9975}
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+>> Intern Machine Learning
+SUMMARY:
+How to Apply: Send your LinkedIn Profile in a message to our LinkedIn Page:
+https://www.linkedin.com/company/pextracloud
+Application Deadline: Open till filled
+Work Location: Remote
+Salary: $5,000 - $6,000.00 per month
+Benefits:
+
+Flexible schedule
+Stock options
+
+Schedule:
+
+Choose your own hours
+
+Work Location: Remote
+Job Types: Contract, Internship
+Pay: $5,000.00 - $6,000.00 per month
+Benefits:
+
+Flexible schedule
+
+Compensation package:
+
+Stock options
+
+Experience level:
+
+No experience needed
+Under 1 year
+
+Schedule:
+
+Choose your own hours
+
+Work Location: RemoteCompany Description
+Pextra Inc. is an early-stage software development startup.We also offer a variety of solutions including consulting, hosting, and training.Contact us at support@pextra.cloud for inquiries, support, or to schedule a meeting.Follow us on LinkedIn: https://www.linkedin.com/company/pextracloud and on Github: https://github.com/PextraCloud
+How to Apply: Please send your LinkedIn Profile using a message to Pextra Inc LinkedIn Page: https://www.linkedin.com/company/pextracloud
+Job Description:We are seeking a motivated and talented individual to join our team as a Machine Learning Intern.
+FREQUENT TWO-WORD PHRASES:
+- Location Remote
+- Work Location
+- machine learning
+- Choose hour
+- Schedule Choose
+- Stock option
+- per month
+- hour Work
+- month Benefits
+- Page http
+- LinkedIn Page
+- LinkedIn Profile
+- Benefits Flexible
+- Flexible schedule
+SENTIMENT:
+{'neg': 0.018, 'neu': 0.75, 'pos': 0.232, 'compound': 0.9967}
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+>> Intern, Data Scientist - IT
+SUMMARY:
+BMW Shared Services is posting this position on behalf of BMW Financial Services NA, LLC.BMW Financial Services NA, LLC was established in 1993, supporting the sales and marketing of BMW products.Subsequently, we have expanded beyond the leasing, retail and commercial financing of a traditional captive-finance company offering a broad variety of products tailored for the BMW, MINI and Rolls-Royce customer.Be a part of our exciting growth by expressing an interest in our Data Scientist - IT Internship located in Columbus, OH.This is a full-time internship position for our Summer Rotation, from June 3, 2024 through August 16, 2024 in Columbus, OH.
+FREQUENT TWO-WORD PHRASES:
+- Financial Services
+- Data Scientist
+- hourly rate
+- BMW Financial
+- Columbus Ohio
+- Shared Services
+SENTIMENT:
+{'neg': 0.005, 'neu': 0.823, 'pos': 0.172, 'compound': 0.9983}
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+>> Data Analyst - Intern
+SUMMARY:
+ABOUT ADOBE
+ Adobe Population Health (APH) is a women-owned health solutions company founded in 2018 and committed to positively impacting the lives we touch.The company has a culture of inclusivity and human kindness, based in Phoenix, AZ, with satellite locations in multiple states.APH has been recognized as one of “America's Fastest-Growing Private Companies” by Inc. 5000 and has earned a "Best Places to Work" award from the Phoenix Business Journal consecutive times.APH offers customized programs for insurance groups, providers, hospitals, and families, which include case management, in-home/in-clinic wellness assessments, preventative care, transitional care, and social work services.As one of the country's few fully integrated healthcare providers, APH provides top-notch medical services with various service lines.
+FREQUENT TWO-WORD PHRASES:
+- Occasionally required
+- Adobe Population
+- Population Health
+- Provide expertise
+- normalization Provide
+- presented actionable
+- Analyst Intern
+- contracted entity
+- expertise stakeholder
+- integrity normalization
+- stakeholder ensure
+- accurate possible
+- actionable accurate
+- external contracted
+- Takes responsibility
+SENTIMENT:
+{'neg': 0.012, 'neu': 0.772, 'pos': 0.216, 'compound': 0.9997}
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+>> Data Scientist Intern
+SUMMARY:
+Job Type: Internship
+Benefits:
+
+Flexible schedule
+
+Work Location: Hybrid remote in Johnston, IA 50131Job Title: Data Scientist Intern
+Reports to: Data Scientist
+Department/Group: Data Science
+Position Type: Internship
+Location: Remote and/or Johnston, IA Office
+Travel Required: Yes; ability to travel as required by role (up to 10% of the time)
+Primary Purpose & Function
+Responsible for utilizing company data to produce data-driven insights for key stakeholders and processing, designing, and presenting data to assist with making business decisions.Essential Functions & Responsibilities
+
+Process confidential data and information according to project requirements.Design models and algorithms to process both public and proprietary datasets.Implement numerical solutions and create statistical and mathematical models using Python, and SQL.
+FREQUENT TWO-WORD PHRASES:
+- Edge Financial
+- Growers Edge
+- Python SQL
+- Type Internship
+- local law
+- state local
+- communication skill
+- Data Scientist
+- statistical analysis
+SENTIMENT:
+{'neg': 0.007, 'neu': 0.914, 'pos': 0.079, 'compound': 0.9657}
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+>> Data Scientist Intern
+SUMMARY:
+We are a hybrid, remote-office company dedicated to growing our talent anywhere!We have onsite locations in: Sioux Falls, SD, Scottsdale, AZ, Troy, MI, Franklin, TN, Dallas, TX
+ At Pathward, we take tremendous pride in our purpose to create financial inclusion for all™.We are a financial empowerment company that works with innovators to increase financial availability, choice, and opportunity for all.We strive to remove barriers that traditional institutions put in the way of financial access, and promote economic mobility by providing responsible, secure, high quality financial products.We are a team of problem solvers and innovators who celebrate our differences and know that our unique perspectives make us stronger and well-positioned for success.
+FREQUENT TWO-WORD PHRASES:
+- Please click
+- believe strongest
+- community serve
+- large datasets
+- local law
+- state local
+- embrace voice
+- partner community
+- strongest embrace
+- voice employee
+- customer partner
+- data source
+- employee customer
+SENTIMENT:
+{'neg': 0.012, 'neu': 0.825, 'pos': 0.163, 'compound': 0.9989}
+----------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------
+>> Data Collections Intern- Summer 2024
+SUMMARY:
+Pison is developing breakthrough consumer and healthcare products that are harnessing the power of the mind.We’ve pioneered the science of electroneurography (ENG) to non-invasively sense, analyze, and apply electrical signals coming from the brain.Our neural biosensor and artificial intelligence software are opening a new window to thousands of new, neural-based applications that can improve human health and wellness and help individuals control their environment via gesture recognition.Our vision is to deliver real-time, actionable insights into the state of the body’s nervous system, guiding users to better health and higher achievement in every domain of human endeavor.Duties/Responsibilities:
+
+ Facilitate the collection of research data.
+FREQUENT TWO-WORD PHRASES:
+- data collection
+SENTIMENT:
+{'neg': 0.016, 'neu': 0.85, 'pos': 0.133, 'compound': 0.9849}
+----------------------------------------------------------------------------------------------------
+
